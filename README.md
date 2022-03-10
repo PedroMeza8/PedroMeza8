@@ -2,11 +2,11 @@
 <img aling="left" alt="PedroMeza | Linkedin" width="22px" src="linkedin.svg" />[linkedin]
 
 ### Soy programador de aplicaciones!
-Hola, soy Pedro Antonio Meza, soy programador desde hace 3 años.
+Hola, soy Pedro Antonio Meza, soy programador.
 
 Si bien tengo mas de 10 años de experiencia en el ambito informatico, me encanta aprender y enfrentarme a nuevos desafios.
 
-Soy Licenciado en Sistemas, hace mucho tiempo estoy trbajando en el area informatica, cumpliendo diversos roles, pero ahora estoy enfocado a el desarrollo de aplicaciones.
+Soy Licenciado en Sistemas, hace mucho tiempo estoy trabajando en el area informatica, cumpliendo diversos roles, pero ahora estoy enfocado a el desarrollo de aplicaciones.
 
 #### Algunas de mis producciones son:
 
