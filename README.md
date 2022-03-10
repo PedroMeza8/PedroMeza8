@@ -1,5 +1,5 @@
 ### Hola Soy Pedro Meza 👋
-[<img aling="left" alt="PedroMeza | Linkedin" width="22px" src="linkedin.svg" href="https://www.linkedin.com/in/pedro-antonio-meza-12610239/" />][linkedin]
+<img aling="left" alt="PedroMeza | Linkedin" width="22px" src="linkedin.svg" />[linkedin]
 [linkedin]: https://www.linkedin.com/in/pedro-antonio-meza-12610239/
 <!--
 **PedroMeza8/PedroMeza8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
